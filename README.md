@@ -20,7 +20,7 @@
 </div><br>
 
 
-student of software engineering, programming and logistics.
+student of software engineering and development!
 
 
 Passionate about technology and changing people's lives through programming.
