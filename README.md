@@ -20,10 +20,10 @@
 </div><br>
 
 
-student of software engineering and development!
-
 
 Passionate about technology and changing people's lives through programming.
+
+Student of software engineering and development!
 
 
 ## Fabiano122803@gamil.com
