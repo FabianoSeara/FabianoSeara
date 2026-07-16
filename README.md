@@ -1,11 +1,26 @@
 ### Hello! I'am Fabiano Seara 🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-de-paula-se%C3%A1ra-074892239/)
+<p align="left">
+  <a href="(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-de-paula-se%C3%A1ra-074892239/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fbianodepaulaseara)
+  <a href="(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fbianodepaulaseara)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
+  <a href="https://claude.ai">
+    <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white">
+  </a>
 
-![FabianoSeara's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabianoSeara&show_icons=true&theme=radical)<br>
+  <a href="SEU_LINK_TRAILBLAZER">
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
+  </a>
+
+  <a href="https://chatgpt.com/">
+    <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
+  </a>
+</p>
 
 
 
