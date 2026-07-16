@@ -1,7 +1,7 @@
 ### Hello! I'am Fabiano Seara 🖐️
 
 <p align="left">
-  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiano-de-paula-se%C3%A1ra-074892239/">
+  <a href="https://www.linkedin.com/in/fabiano-se%C3%A1ra-074892239/?locale=en">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
