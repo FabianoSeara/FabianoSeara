@@ -31,7 +31,7 @@
 </p>
 
 
-Passionate about technology 🛡️
+Passionate about technology and cybersecurity 🛡️
 
 Software Engineer | Aspiring DevSecOps Professional 🔐
 
