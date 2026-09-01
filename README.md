@@ -31,9 +31,9 @@
 </p>
 
 
-Passionate about technology and changing people's lives through programming.
+Passionate about technology 🛡️
 
-Student of software engineering and development!
+Software Engineer | Aspiring DevSecOps Professional 🔐
 
 
 ## E-mail: fabiano122803@gamil.com
