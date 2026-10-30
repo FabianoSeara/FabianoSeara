@@ -19,6 +19,8 @@
 </div>
 
 
+
+
 Passionate about technology and DevSecOps 🛡️
 
 Software Engineer | Aspiring DevSecOps Professional 🔐
