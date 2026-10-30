@@ -11,9 +11,8 @@
 ### technologies that I use in my day!
 
 <p align="center">
-  <img src="https://tech-stack.wontory.dev/api/badge?slug=docker&text=Docker&highlight=true&theme=dark" alt="Animated Docker Badge" />
+  <img src="https://godprofile-mcp.vercel.app/api/marquee?icons=docker,git,github,python,linux&theme=cyberpunk" alt="Animated Icon Marquee" />
 </p>
-
 
 
 Passionate about technology and DevSecOps 🛡️
