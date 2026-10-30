@@ -10,14 +10,9 @@
 
 ### technologies that I use in my day!
 
-<div align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,docker,python&theme=dark" />
-  <br>
-  <img src="https://img.shields.io/badge/Semgrep-FF6F00?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep">
-  <img src="https://img.shields.io/badge/Gitleaks-000000?style=for-the-badge&logo=github&logoColor=white" alt="Gitleaks">
-</div>
-
+<p align="center">
+  <img src="https://tech-stack.wontory.dev/api/badge?slug=docker&text=Docker&highlight=true&theme=dark" alt="Animated Docker Badge" />
+</p>
 
 
 
