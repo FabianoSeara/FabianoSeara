@@ -11,9 +11,8 @@
 ### technologies that I use in my day!
 
 <p align="center">
-  <img src="https://godprofile-mcp.vercel.app/api/marquee?icons=docker,git,github,python,linux&theme=cyberpunk" alt="Animated Icon Marquee" />
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Meu+Stack&slugs=docker,git,github,python,linux&theme=dark" alt="Animated Tech Stack" />
 </p>
-
 
 Passionate about technology and DevSecOps 🛡️
 
